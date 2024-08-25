@@ -1,4 +1,4 @@
-# Mediguardian UI Report
+# Mediguardian UI Report 🏥
 
 ## Project Description:
 The Mediguardian project focuses on creating a medication regulation and intake system, primarily aimed at individuals who struggle with managing their medications, particularly the elderly demographic. The system consists of a stationary pill dispenser and a wearable device that work in tandem to streamline medication management processes. Key objectives include simplifying user interfaces, facilitating medication schedule management, and ensuring user-friendliness for individuals with varying technological experiences.
